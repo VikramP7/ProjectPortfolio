@@ -1,6 +1,6 @@
 # Java Neural Network Library
 
-## August 2022
+**August 2022**
 
 ---
 
