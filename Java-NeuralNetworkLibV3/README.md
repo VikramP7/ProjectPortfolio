@@ -2,6 +2,8 @@
 
 ## August 2022
 
+---
+
 ### Synapsis:
 Neural network library that I wrote from scratch as an interesting intersection between matrix mathematics, linear algebra, multi-variable calculus and programming. This was a summer project before grade 10 as a hobby. However ended up being used as my Math IB paper topic. 
 
