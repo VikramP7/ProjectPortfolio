@@ -4,4 +4,9 @@
 
 ---
 
+### Examples:
+![FishAscii](./Resources/ASCIISmallerFish.jpg)
 
+![DOG](./Resources/ASCIIDog.jpg)
+
+![Scull](./Resources/ASCIIScull.jpg)
