@@ -1,6 +1,6 @@
 # Java Neural Network Library
 
-**August 2022**
+**August 2021**
 
 ___
 
@@ -14,7 +14,7 @@ Neural network library that I wrote from scratch as an interesting intersection 
 * Dynamic normalization function activation
 * Multiple learning structures
 
-### Dificulties:
+### Difficulties:
 * Understanding the mathematics enough to convert it into functioning java code
 * Building the project from scratch, meaning no prebuilt libraries to rely on. (A blessing and a curse, as I had to understand every line I wrote)
 * Debuging a neural network is imposible as it is hard to determine if it is operating properly
