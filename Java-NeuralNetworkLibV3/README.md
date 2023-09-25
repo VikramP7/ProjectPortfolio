@@ -18,3 +18,8 @@ Neural network library that I wrote from scratch as an interesting intersection 
 * Understanding the mathematics enough to convert it into functioning java code
 * Building the project from scratch, meaning no prebuilt libraries to rely on. (A blessing and a curse, as I had to understand every line I wrote)
 * Debuging a neural network is imposible as it is hard to determine if it is operating properly
+
+### Resources:
+* *Three Blue One Brown:* https://www.3blue1brown.com/topics/neural-networks
+* *Wikipedia:* https://en.wikipedia.org/wiki/Artificial_neural_network
+* *Daniel Shiffman:* https://natureofcode.com/book/chapter-10-neural-networks/ https://www.youtube.com/watch?v=ntKn5TPHHAk
